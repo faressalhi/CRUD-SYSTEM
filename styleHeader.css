@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+header {
+    width: 100%;
+    height:70px;
+}
+#titre {
+    position: absolute;
+    left: 10px;
+    float: left;
+    padding-left: 35px;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+}
+.orange {
+    color: orange;
+}
+.red {
+    color: red;
+    font-weight: bold;
+}
+ul {
+    width: 35%;
+    list-style: none;
+    display: flex;
+    float: right;
+    position: relative;
+    
+}
+ul li {
+    padding-left: 20px;
+    font-size: 25px;
+    margin-right:15px;
+}
+ul li a {
+    text-decoration: none; 
+    font-family: 'Cookie', sans-serif;
+}
+

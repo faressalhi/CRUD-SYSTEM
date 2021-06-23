@@ -1,0 +1,4 @@
+1/ il faut créer une base de données dont le nom est "base"
+2/ importer le fichier "etudiant.sql"
+
+Merci
